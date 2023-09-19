@@ -1,16 +1,12 @@
-### Hi there 👋
+<div>
+  <img align="right" height="500" src="https://i.imgur.com/fOIAeij.png">
+  <h2>ABOUT ME</h2>
 
-<!--
-**LinkTheCoder/LinkTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 A job hunting Front-End Developer. I like to code and design websites, apps & create PC games. I'm also a digital artist.
+- 👨‍💻 Trying to keep up with the endless new tools. Mostly using React, Next, Tailwind CSS & Firebase for websites & apps.
+- 🎮 Creator of the mystery game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
+- 📺 Big fan of korean survival & variety shows
+- 💬 Svenska (Native), English (Fluent), 한국인 (TOPIK-I)
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/351263861103394817?idleMessage=(ノ▔∀▔)ノ彡┻━┻)](https://discord.com/users/351263861103394817)
+</div>
