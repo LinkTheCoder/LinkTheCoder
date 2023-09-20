@@ -7,7 +7,6 @@
 - 🎮 Creator of the mystery game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
 - 🤩 Fan of detective novels, korean survival & variety shows etc.
 - 💬 Svenska (Native), English (Fluent), 한국인 (TOPIK-I).
-- 📬 Discord: @linkthedev
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/351263861103394817?idleMessage=(ノ▔∀▔)ノ彡┻━┻)](https://discord.com/users/351263861103394817)
 </div>
