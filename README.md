@@ -6,7 +6,7 @@
 - 👨‍💻 Trying to keep up with the endless new tools. Like React, Next, Tailwind CSS, PWA, Native PWA & Firebase for websites & apps.
 - 🎮 Creator of the mystery game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
 - 🤩 Fan of detective novels, korean survival & variety shows etc.
-- 💬 Svenska (Native), English (Fluent), 한국인 (TOPIK-I).
+- 💬 Svenska (Native), English (Fluent), 한국인 (Basic).
   
 <a href="https://discord.com/users/351263861103394817">
  <img align="center" src="https://i.imgur.com/Ugvrvuv.png">
