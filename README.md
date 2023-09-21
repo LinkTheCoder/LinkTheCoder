@@ -1,5 +1,5 @@
 <div>
-  <img align="right" height="440" src="https://i.imgur.com/MCN99Ey.png">
+  <img align="right" height="380" src="https://i.imgur.com/fOIAeij.png">
   <h2 align="center">ABOUT ME</h2>
 
 - 🐧 A job hunting Front-End Developer. I like to code and design websites, apps & create PC games. I'm also a digital artist.
@@ -9,6 +9,6 @@
 - 💬 Svenska (Native), English (Fluent), 한국인 (TOPIK-I).
   
 <a href="https://discord.com/users/351263861103394817">
- <img align="center" src="https://i.imgur.com/ORmqCte.png">
+ <img align="center" src="https://i.imgur.com/Ugvrvuv.png">
 </a>
 </div>
