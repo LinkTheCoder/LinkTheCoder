@@ -8,3 +8,4 @@
 - 🤩 Fan of detective novels, korean survival & variety shows etc.
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
 - 💬 Discord: @linkthedev
+- 🦦 Next Convention: LIFC Online (2024)
