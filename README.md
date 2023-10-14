@@ -8,5 +8,5 @@
 - 🕵🏻 Reads a lot of detective novels
 - 📺 Like to watch korean survival & variety shows, star wars, loki etc.
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
-- 💬 Discord: [@linkthedev](https://discord.com/users/351263861103394817) | Telegram: [@LinkTheCoder](https://t.me/LinkTheCoder)
+- 💬 Discord: [@linkthedev](https://discord.com/users/351263861103394817)
 - 🦦 Next Convention: LIFC Online (2024)
