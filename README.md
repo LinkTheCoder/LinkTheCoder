@@ -12,6 +12,6 @@
   
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
 
-- 🗂️ [Website/Apps Folder](https://github.com/stars/LinkTheCoder/lists/websites-apps)
+- 🗂️ [Website/Apps Collection](https://github.com/stars/LinkTheCoder/lists/websites-apps)
   
-- 🗂️ [Discord Bots Folder](https://github.com/stars/LinkTheCoder/lists/bots)
+- 🗂️ [Discord Bots Collection](https://github.com/stars/LinkTheCoder/lists/bots)
