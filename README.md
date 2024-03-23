@@ -1,5 +1,9 @@
-<div>
-  <h2 align="center">ABOUT ME</h2>
+<div align="center">
+  
+  <img src="https://i.imgur.com/gLUwr3g.gif" width="60%" />
+  </div>
+  
+  <h2 align="center">✨ ABOUT ME ✨</h2>
 
 - 🐧 A job hunting Front-End Developer. I like to code and design websites, apps & create PC games. I'm also a digital artist.
   
