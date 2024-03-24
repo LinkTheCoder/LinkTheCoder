@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.imgur.com/gLUwr3g.gif" width="60%" />
+  <img src="https://i.imgur.com/gLUwr3g.gif" width="70%" />
   </div>
   
   <h2 align="center">✨ ABOUT ME ✨</h2>
