@@ -9,7 +9,7 @@
   
 - 👨🏻‍💻 Using tolls like Next, React, React Native Expo, Tailwind CSS, PWA, TWA, Native PWA etc.
 
-- 💾 Also tinkering with databases like Firebase & Postgres.
+- 💾 Also tinkering sometimes with databases like Firebase & Postgres.
 
 - 💽 Studying a bit of backend servers in Next or Node.js
   
