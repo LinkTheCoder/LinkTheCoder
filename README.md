@@ -11,9 +11,9 @@
 
 - 💾 Also tinkering sometimes with databases like Firebase & Postgres.
 
-- 💽 Studying a bit of backend servers in Next or Node.js
+- 💽 Studying a bit of backend servers focusing on Next.js
   
-- 🛜 Looking at basic of Devops as well learning about github actions, docker, self-hosting etc.
+- 🛜 Looking at basic of Devops as well learning about github actions, docker etc.
   
 - 🌐 Fediverse fan.
 <br>
