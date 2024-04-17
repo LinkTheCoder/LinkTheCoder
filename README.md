@@ -7,9 +7,15 @@
 
 - 🐧 A job hunting Front-End Developer. I like to code and design websites, apps & create PC games. I'm also a digital artist.
   
-- 👨🏻‍💻 Trying to keep up with the endless new tools. Like React, Next, Tailwind CSS, PWA, TWA, Native PWA & Firebase etc for websites & apps.
+- 👨🏻‍💻 Trying to keep up with the endless new tools. Like Next, React, Tailwind CSS, PWA, TWA, Native PWA etc.
 
-- 🖥️ Also tinkering with Node.js, Discord bots.
+- 💾 Also tinkering with databases like Firebase & Postgres.
+
+- 💽 Studying a bit of backend servers Next or Node.js
+  
+- 🛜 Looking at basic of Devops as well learning about github actions, docker, self-hosting etc.
+  
+- 🌐 Fediverse fan.
   
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
   
