@@ -7,9 +7,9 @@
 
 - 🐧 A job hunting Front-End Developer. I like to code and design websites, apps & create PC games. I'm also a digital artist.
   
-- 👨🏻‍💻 Using tolls like Next, React, React Native Expo, Tailwind CSS, PWA, TWA, Native PWA etc.
+- 👨🏻‍💻 Using tools like Next, React, React Native Expo, Tailwind CSS, PWA, TWA, Native PWA etc.
 
-- 💾 Also tinkering sometimes with databases like Firebase & Postgres.
+- 💾 Also tinkering sometimes with serverless/cloud databases like Firebase & Supabase.
 
 - 💽 Studying a bit of backend servers focusing on Next.js
   
