@@ -15,8 +15,6 @@
   
 - 🛜 Looking at basic of Devops as well learning about github actions, docker etc.
   
-- 🌐 Fediverse fan.
-  
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
   
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
