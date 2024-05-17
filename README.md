@@ -19,6 +19,6 @@
   
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
   
-- 💼 Searching for a remote developer job.
+- 💼 Searching for a developer job.
 
 - 📧 Discord: @linkthedev
