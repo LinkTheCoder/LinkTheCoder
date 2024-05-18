@@ -15,7 +15,7 @@
   
 - 💽 Scratching on the surface of server-side languages as Node.js and Python
   
-- 🛜 Looking at basic of Devops as well learning a bit about github actions, docker etc.
+- 🛜 Looking at basic of Devops as well learning basics about github actions, docker etc.
   
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
   
