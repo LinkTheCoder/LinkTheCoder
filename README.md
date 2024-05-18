@@ -11,9 +11,11 @@
 
 - 💾 Also tinkering sometimes with serverless/cloud databases like Firebase & Supabase.
 
-- 💽 Studying a bit of backend servers focusing on Next.js
+- 🎛️ Studying a bit of backend servers focusing on Next.js
   
-- 🛜 Looking at basic of Devops as well learning about github actions, docker etc.
+- 💽 Scratching on the surface of server-side languages as Node.js and Python
+  
+- 🛜 Looking at basic of Devops as well learning a bit about github actions, docker etc.
   
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
   
