@@ -12,10 +12,8 @@
 -  💻 Client-side languages as HTML, CSS, JS/TS, JSX/TSX, etc.
 
 - 💾 Also tinkering sometimes with serverless/cloud databases like Firebase & Supabase.
-
-- 🎛️ Studying a bit of backend servers mostly Next.js
   
-- 💽 Scratching on the surface of server-side languages as Node.js and Python
+- 💽 Scratching on the surface of server-side languages as Python to make Discord Bots 
   
 - 🛜 Looking at basic of Devops as well learning basics about github actions, docker etc.
   
