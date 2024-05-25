@@ -13,7 +13,7 @@
 
 - 💾 Also tinkering sometimes with serverless/cloud databases like Firebase & Supabase.
   
-- 💽 Scratching on the surface of server-side languages as Python to make Discord Bots 
+- 💽 Scratching on the surface of server-side languages as Python to make Discord bots 
   
 - 🛜 Looking at basic of Devops as well learning basics about github actions, docker etc.
   
