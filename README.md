@@ -17,4 +17,4 @@
   
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
 
-- 📧 Discord: @linkthedev (FR/DM Open 😸)
+- 📧 Discord: @linkthedev
