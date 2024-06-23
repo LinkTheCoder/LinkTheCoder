@@ -16,9 +16,3 @@
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
   
 - 🌍 Svenska (Native), English (Fluent), 한국인 (Basic).
-
-  <br>
-<div align="center">
-  <h3>✍️ Daily Dev Quotes ✍️</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
