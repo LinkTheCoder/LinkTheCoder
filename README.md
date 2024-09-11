@@ -9,8 +9,6 @@
   
 - 💚 Tailwind CSS
 
-- 💾 Also tinkering sometimes with serverless/cloud databases like Firebase & Supabase.
-  
-- 🛜 Looking at basic of Devops as well learning basics about github actions, docker etc.
+- 💾 Also tinkering sometimes with serverless/cloud databases like Firebase.
   
 - 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
