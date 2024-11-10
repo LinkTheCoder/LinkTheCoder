@@ -10,5 +10,3 @@
 - 💚 Tailwind CSS
 
 - 💾 Also tinkering sometimes with serverless/cloud databases like Firebase.
-  
-- 🎮 Creator of the mystery PC game: [**BEAST CRIMES**](https://www.beastcrimes.com/)
