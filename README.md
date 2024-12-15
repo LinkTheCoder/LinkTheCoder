@@ -1,7 +1,7 @@
 
 <h2 align="center">✨ ABOUT ME ✨</h2>
 
-- 🐧 A job hunting **Front-End Developer**. I like to code and design websites, apps & bots.
+- 🐧 A job hunting **Front-End Developer**. I like to code and design websites, apps, games, bots etc.
   
 - 👨🏻‍💻 Using tools & frameworks like Next, React, React Native Expo, PWA, TWA, Native PWA etc.
   
