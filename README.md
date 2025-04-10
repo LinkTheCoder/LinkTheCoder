@@ -9,4 +9,6 @@
   
 - 💙 Tailwind CSS.
 
-- 💾 Also tinkering sometimes with serverless/cloud databases like Firebase/Supabase.
+- 💾 Also tinkering sometimes with serverless/cloud databases like Firebase.
+  
+- 🤔 Learning a bit Back-End like Node, Express, PostgreSQL etc.
