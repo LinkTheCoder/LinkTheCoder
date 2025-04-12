@@ -11,6 +11,6 @@
 
 - 💾 Also tinkering sometimes with databases like Firebase, PostgreSQL/MySQL, Redis etc.
   
-- ⚙️ Learning a bit Back-End like Node, Express etc.
+- ⚙️ Learning a bit Server-side languages like Node, Express etc.
 
 - 🔁 Also a bit DevOps like Docker etc.
