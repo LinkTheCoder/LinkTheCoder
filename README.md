@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 A **Front-End Developer** partly **Back-End**. I like to code and design websites, apps, games, bots etc.
   
-- ⚛️ Using tools & frameworks like Next, React, React Native Expo etc.
+- ⚛️ Using frameworks like Next, React, React Native Expo etc.
   
 - 💻 Client-side languages as HTML, CSS, JS/TS etc.
   
