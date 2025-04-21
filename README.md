@@ -1,5 +1,5 @@
 
-<h2 align="center">✨ ABOUT ME ✨</h2>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 - 👨🏻‍💻 A **Front-End Developer** partly **Back-End**. I like to code and design websites, apps, games, bots etc.
   
