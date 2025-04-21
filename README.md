@@ -9,7 +9,7 @@
   
 - 💙 Tailwind CSS.
 
-- 💾 Also tinkering sometimes with databases like Firebase, PostgreSQL/MySQL, Redis etc.
+- 💾 Also tinkering sometimes with databases like Firebase, PostgreSQL, Redis etc.
   
 - ⚙️ Learning a bit Server-side languages like Node, Express etc.
 
