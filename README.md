@@ -14,3 +14,5 @@
 - ⚙️ Learning a bit Server-side languages like Node, Express etc.
 
 - 🔁 Also a bit DevOps like Docker, Git etc.
+  
+- 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Android.
