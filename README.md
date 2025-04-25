@@ -17,4 +17,4 @@
   
 - 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Android.
 
-- 🗄️ Simple server use with Nginx(Local/VPS).
+- 🗄️ Simple web server use with Nginx(Local/VPS).
