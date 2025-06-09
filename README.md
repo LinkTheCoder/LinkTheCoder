@@ -1,7 +1,7 @@
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
-- 👨🏻‍💻 A **Front-End Developer** partly **Back-End**. I like to code and design websites, apps, games, bots etc.
+- 👨🏻‍💻 A **Front-End Developer** a bit **Back-End**. I like to code and design websites, apps, games, bots etc.
   
 - ⚛️ Using frameworks like Next, React, React Native Expo, Express, Tailwind CSS etc.
   
