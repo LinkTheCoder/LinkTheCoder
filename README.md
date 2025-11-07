@@ -9,7 +9,7 @@
 
 - ⚙️ Learning Server-side languages like Node, Python, C# etc.
 
-- 💾 Tinkering with databases like PostgreSQL, Supabase, Redis, Firebase etc.
+- 💾 Tinkering with databases like PostgreSQL, Supabase etc.
 
 - 🔁 Also a bit DevOps like Docker, Git etc.
   
