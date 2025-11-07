@@ -3,13 +3,13 @@
 
 - 👨🏻‍💻 A **Front-End Developer** a bit **Back-End**. I like to code and design websites, apps, games, bots etc.
   
-- ⚛️ Using frameworks like Next, React, React Native Expo, Express, Tailwind CSS etc.
+- ⚛️ Using frameworks like Next, React, React Native Expo, .NET etc.
   
 - 💻 Client-side languages as HTML, CSS, JS/TS etc.
 
 - 💾 Also tinkering sometimes with databases like Firebase, PostgreSQL, Redis etc.
   
-- ⚙️ Learning a bit Server-side languages like Node, Python etc.
+- ⚙️ Learning a bit Server-side languages like Node, Python, C# etc.
 
 - 🔁 Also a bit DevOps like Docker, Git etc.
   
