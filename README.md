@@ -7,9 +7,9 @@
   
 - 💻 Client-side languages as HTML, CSS, JS/TS etc.
 
-- 💾 Also tinkering sometimes with databases like Firebase, PostgreSQL, Redis etc.
-  
-- ⚙️ Learning a bit Server-side languages like Node, Python, C# etc.
+- ⚙️ Learning Server-side languages like Node, Python, C# etc.
+
+- 💾 Tinkering with databases like PostgreSQL, Supabase, Redis, Firebase etc.
 
 - 🔁 Also a bit DevOps like Docker, Git etc.
   
