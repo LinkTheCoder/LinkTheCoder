@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 **Full-Stack Developer** specialized in **Front-end**. I like to code and design websites, apps, games, bots etc.
   
-- ⚛️ Using frameworks like Next, React, React Native Expo, .NET etc.
+- ⚛️ Using frameworks like Next, React, .NET etc.
   
 - 💻 Client-side languages as HTML, CSS, JS/TS etc.
 
