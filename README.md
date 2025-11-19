@@ -14,3 +14,5 @@
 - 🔁 Also a bit DevOps like Docker, Git Actions etc.
   
 - 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Android.
+  
+- 🗄️ Hosting on Github, Vercel & Azure.
