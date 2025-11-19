@@ -11,8 +11,6 @@
 
 - 💾 Tinkering with databases like PostgreSQL, Supabase etc.
 
-- 🔁 Also a bit DevOps like Docker, Git etc.
+- 🔁 Also a bit DevOps like Docker, Git Actions etc.
   
 - 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Android.
-
-- 🗄️ Simple web server use with Nginx(Local/VPS).
