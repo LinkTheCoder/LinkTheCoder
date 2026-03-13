@@ -12,7 +12,9 @@
 - 💾 Tinkering with databases like PostgreSQL, Supabase etc.
 
 - 🔁 Also a bit DevOps like Docker, Git Actions etc.
+
+- 🍓 Raspberry Pi owner.
   
-- 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Android.
+- 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Linux etc.
   
 - 🗄️ Hosting on Github, Vercel & Azure.
