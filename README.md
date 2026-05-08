@@ -1,7 +1,7 @@
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
-- 👨🏻‍💻 **Full-Stack Developer** specialized in **Front-end**. I like to code and design websites, apps, games, bots etc.
+- 👨🏻‍💻 **Software Developer** specialized in **Front-end**. I like to code and design websites, apps, games, bots etc.
   
 - ⚛️ Using frameworks like Next, React, .NET etc.
   
