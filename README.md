@@ -18,3 +18,5 @@
 - 🖥️ Use OS like Windows, WSL(Windows Subsystem for Linux), Linux etc.
   
 - 🗄️ Hosting on Github, Vercel & Azure.
+
+- 🛡️ Trying to learn about cybersecurity.
