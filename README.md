@@ -19,4 +19,4 @@
   
 - 🗄️ Hosting on Github, Vercel & Azure.
 
-- 🛡️ Trying to learn about cybersecurity.
+- 🛡️ Trying to learn about Cybersecurity.
