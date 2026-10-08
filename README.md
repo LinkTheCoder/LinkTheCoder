@@ -20,3 +20,5 @@
 - 🗄️ Hosting on Github, Vercel & Azure.
 
 - 🛡️ Trying to learn about Cybersecurity.
+
+- 🤖 Code in my own repository is written without AI-generated code. However, external work or open-source projects may include AI-generated code, depending on the project's AI policy and requirements.
